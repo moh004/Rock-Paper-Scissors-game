@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+body{
+    background-color: #1A2749; /* #1F3656 */
+    text-align: center;
+    font-family: "Roboto Condensed";
+    color: #FBFFFF;
+}
